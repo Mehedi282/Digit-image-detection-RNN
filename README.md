@@ -2,6 +2,9 @@
 
 ## Overview
 
+[Open the Colab Project]([https://colab.research.google.com/drive/19prG-O72Ukc49zjEYVmvfM39797IV1dV#scrollTo=2XiDbUACOSVV](https://colab.research.google.com/drive/1ecGU80ayyoBuain5GsXLWwqSOxNLBybh))
+
+
 This project implements a **Recurrent Neural Network (RNN)** using **TensorFlow** and **Keras** to classify images from the **MNIST** dataset. The model uses RNN layers for image classification, showcasing an alternative to traditional CNN-based models. The model is trained on the MNIST dataset and can predict the digit in an uploaded image.
 
 ## Features
